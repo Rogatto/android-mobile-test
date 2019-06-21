@@ -1,0 +1,5 @@
+1. Alerta de erro sendo apresentado ao usuário na tela para adicionar o produto ao carrinho ou favoritos - Evidencia: alert_interruped_process.png
+2. Em todos os menus de compra (Collections, Baby e etc), ao acessar as vezes não é apresentado produtos ao usuário - Evidencia: no_have_products_for_collections
+3. Não foi possivel efetuar a compra após informar os dados do cartão de crédito e clicar no botão para efetuar compra (é informado ao usuário que ainda falta dados)
+4. No menu principal (browse all categories) não é apresentado os produtos de exemplo - Evidencia: retry.png
+5. Algumas vezes ao adicionar produto como favorito, o mesmo não é apresentado na tela de favoritos e a mensagem de nenhum produto no favoritos é apresetado.
